@@ -15,3 +15,4 @@ gem 'spring', group: :development
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'ffaker'
+gem 'puma'
